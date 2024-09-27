@@ -1,6 +1,4 @@
 
-Here’s your updated content with spaces between rows:
-
 Quiz Application Backend 🎯
 Description 📝
 This backend API, built with Node.js, Express, and MongoDB, helps manage quizzes and store user responses. It provides endpoints to:
